@@ -1,0 +1,38 @@
+wLicence v0.1 #Yes it's pre-release, this ain't a very good robust licence yet.
+
+Any text after a '#' other than this line should be treated as a comment, and doesn't affect the licence.
+
+Do what you want with this licence document, as long as the name is changed.
+If this is a fork, use the same Ts and Cs.
+
+Licence Copyright (C) Wilbur Williams 2024. <https://wilburwilliams.uk>
+
+Creators:
+Wilbur Williams <https://wilburwilliams.uk>
+
+
+----BEGIN LICENCE----
+
+DEFINITIONS
+A "creator" is someone who originally created the software, or has made a large (over 20% change by characters in the software's code) change to the software, in the case of a fork. 
+	*Creators may be listed at the top of this document, and in this case, they are a creator even if they do not fit the definition outlined above.*
+
+"us", "we" refers to the creator or creators of this software.
+
+"attribution" and "commerical use" / "commercially" are to be interpreted as defined in the Creative Commons CC BY-NC 4.0 DEED <https://creativecommons.org/licenses/by-sa/4.0/legalcode.en>.
+
+To "change" the software refers to publishing a modified version.
+
+TERMS AND CONDITIONS
+1. Distribution rights:
+	1a. You are free to distribute and change the software, subject to the other terms.
+	1b. You must give appropriate attribution when redistributing the software.
+	1c. You cannot use any software releases younger than 2 years old commerically without gaining explicit approval from a creator if you do not redistribute under the same licence terms.
+	1d. You must redistribute under the same licence if you are not a creator.
+
+2. Ownership rights: 
+	2a. You may claim the software as your own, however you must still give attribution, if you are defined as a creator of the software. This also lets you ignore all other Terms and Conditions in this licence document.
+
+
+----END LICENCE----
+	
