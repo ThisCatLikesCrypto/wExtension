@@ -8,5 +8,20 @@ label {
 }
 
 input {
-    width: 300px;
+    width: 380px;
+    float: center;
+}
+
+#saveBtn {
+    width: 80px !important;
+    float: center;
+}
+
+@keyframes fadeOut {
+    0% { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+.fade-out {
+    animation: fadeOut 1.5s ease forwards;
 }

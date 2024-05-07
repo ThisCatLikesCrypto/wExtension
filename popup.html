@@ -9,11 +9,13 @@
   <link href="https://dev.wilburwilliams.uk/css/themes/universal.css" rel="stylesheet">
 </head>
 <body>
-  <h2>wExtension Settings</h2>
-  <label for="redirectUrl">New Tab Redirect URL:</label>
-  <input type="text" id="redirectUrl" class="wws-inputBox">
-  <button style="width: 80px !important;" id="saveBtn">Save</button>
-
+  <div id="settings">
+    <h2>wExtension Settings</h2>
+    <p id="statusindicator"> </p>
+    <label for="redirectUrl">New Tab Redirect URL:</label>
+    <input type="text" id="redirectUrl" class="wws-inputBox">
+    <button id="saveBtn">Save</button>
+  </div>
   <script src="popup.js"></script>
 </body>
 </html>
